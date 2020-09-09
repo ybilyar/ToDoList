@@ -8,15 +8,12 @@
 
 
 
-- Email/Google Authentication
-- Firebase Firestore and Storage
-- Real-time chat with image/text messages
-- Global users search
-- User profile setup
-- NSLayoutAnchor and StackViews
-- UICollectionView Compositional Layout
-- UICollectionView Diffable Datasource
-- MessageKit
+- Tableview
+- Core Data 
+- TableView Delegate Methods
+- Model Manupulation Methods
+- UISearchBarDelegate
+- SwipeTableViewCellDelegate
 - etc.
 
 
@@ -24,9 +21,8 @@
 
 
 ---
-<img src="https://github.com/ybilyar/TestMessenger/blob/master/Apple%20iPhone%2011%20Pro(ChatTest).png" alt="drawing" width="400"/>
-<img src="https://github.com/ybilyar/TestMessenger/blob/master/IMG_0851.PNG" alt="drawing" width="400"/>
-<img src="https://github.com/ybilyar/TestMessenger/blob/master/IMG_0853.jpg" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/Viy9wlK.png" alt="drawing" width="400"/>
+
 
 
 
